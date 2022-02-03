@@ -1,3 +1,7 @@
 linea 1 desde rama actividad3
 mas lineas
+<<<<<<< HEAD
 mas lineas2
+=======
+mas lineas
+>>>>>>> actividad3
